@@ -21,7 +21,7 @@ Set this to `alphabetical` to order menu items alphabetically. If you want to ma
 Specify the location of the footer markdown file:
 
 ```yaml
-footer_file: footer1.md
+footer_file: footer.md
 ```
 
 This should be the name of the markdown file in your content repository that contains the footer content.
