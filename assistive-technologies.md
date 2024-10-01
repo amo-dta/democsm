@@ -1,4 +1,4 @@
-# Assistive Technologies - cliff
+# Assistive Technologies
 
 ![Assistive Technologies](/images/assistive-tech.png)
 
